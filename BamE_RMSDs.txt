@@ -1,0 +1,1225 @@
+Computing secondary structure assignments for model(s) #0, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 433.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.476 angstroms; (across all 87 pairs: 0.476)
+
+Computing secondary structure assignments for model(s) #0, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 433.1
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.449 angstroms; (across all 87 pairs: 0.506)
+
+Computing secondary structure assignments for model(s) #0, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.523 angstroms; (across all 87 pairs: 0.523)
+
+Computing secondary structure assignments for model(s) #0, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.490 angstroms; (across all 87 pairs: 0.550)
+
+Computing secondary structure assignments for model(s) #0, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 415.1
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.518 angstroms; (across all 87 pairs: 0.568)
+
+Computing secondary structure assignments for model(s) #0, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 427.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.428 angstroms; (across all 87 pairs: 0.520)
+
+Computing secondary structure assignments for model(s) #0, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.454 angstroms; (across all 87 pairs: 0.520)
+
+Computing secondary structure assignments for model(s) #0, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_01_MDFF.pdb, chain E (#0) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 418.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.539 angstroms; (across all 87 pairs: 0.539)
+
+Computing secondary structure assignments for model(s) #1, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 433.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.476 angstroms; (across all 87 pairs: 0.476)
+
+Computing secondary structure assignments for model(s) #1, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 433.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.424 angstroms; (across all 87 pairs: 0.424)
+
+Computing secondary structure assignments for model(s) #1, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 437.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.399 angstroms; (across all 87 pairs: 0.399)
+
+Computing secondary structure assignments for model(s) #1, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 428.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.508 angstroms; (across all 87 pairs: 0.508)
+
+Computing secondary structure assignments for model(s) #1, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 422.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.487 angstroms; (across all 87 pairs: 0.487)
+
+Computing secondary structure assignments for model(s) #1, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 434.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.553 angstroms; (across all 87 pairs: 0.553)
+
+Computing secondary structure assignments for model(s) #1, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 428.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.444 angstroms; (across all 87 pairs: 0.444)
+
+Computing secondary structure assignments for model(s) #1, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_02_MDFF.pdb, chain E (#1) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 425.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.501 angstroms; (across all 87 pairs: 0.501)
+
+Computing secondary structure assignments for model(s) #2, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 433.1
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.449 angstroms; (across all 87 pairs: 0.506)
+
+Computing secondary structure assignments for model(s) #2, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 433.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.424 angstroms; (across all 87 pairs: 0.424)
+
+Computing secondary structure assignments for model(s) #2, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.407 angstroms; (across all 87 pairs: 0.407)
+
+Computing secondary structure assignments for model(s) #2, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.473 angstroms; (across all 87 pairs: 0.473)
+
+Computing secondary structure assignments for model(s) #2, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.427 angstroms; (across all 87 pairs: 0.427)
+
+Computing secondary structure assignments for model(s) #2, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 427.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.439 angstroms; (across all 87 pairs: 0.439)
+
+Computing secondary structure assignments for model(s) #2, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.418 angstroms; (across all 87 pairs: 0.418)
+
+Computing secondary structure assignments for model(s) #2, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_03_MDFF.pdb, chain E (#2) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 418.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.475 angstroms; (across all 87 pairs: 0.475)
+
+Computing secondary structure assignments for model(s) #3, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.523 angstroms; (across all 87 pairs: 0.523)
+
+Computing secondary structure assignments for model(s) #3, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 437.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.399 angstroms; (across all 87 pairs: 0.399)
+
+Computing secondary structure assignments for model(s) #3, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.407 angstroms; (across all 87 pairs: 0.407)
+
+Computing secondary structure assignments for model(s) #3, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 425.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.451 angstroms; (across all 87 pairs: 0.451)
+
+Computing secondary structure assignments for model(s) #3, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 418.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.449 angstroms; (across all 87 pairs: 0.503)
+
+Computing secondary structure assignments for model(s) #3, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 431.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.469 angstroms; (across all 87 pairs: 0.469)
+
+Computing secondary structure assignments for model(s) #3, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 425.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.392 angstroms; (across all 87 pairs: 0.392)
+
+Computing secondary structure assignments for model(s) #3, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_04_MDFF.pdb, chain E (#3) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 422.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.507 angstroms; (across all 87 pairs: 0.507)
+
+Computing secondary structure assignments for model(s) #4, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.490 angstroms; (across all 87 pairs: 0.550)
+
+Computing secondary structure assignments for model(s) #4, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 428.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.508 angstroms; (across all 87 pairs: 0.508)
+
+Computing secondary structure assignments for model(s) #4, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.473 angstroms; (across all 87 pairs: 0.473)
+
+Computing secondary structure assignments for model(s) #4, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 425.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.451 angstroms; (across all 87 pairs: 0.451)
+
+Computing secondary structure assignments for model(s) #4, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.484 angstroms; (across all 87 pairs: 0.530)
+
+Computing secondary structure assignments for model(s) #4, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 422.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.446 angstroms; (across all 87 pairs: 0.446)
+
+Computing secondary structure assignments for model(s) #4, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 443.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.456 angstroms; (across all 87 pairs: 0.456)
+
+Computing secondary structure assignments for model(s) #4, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_05_MDFF.pdb, chain E (#4) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 440.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.491 angstroms; (across all 87 pairs: 0.539)
+
+Computing secondary structure assignments for model(s) #5, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 415.1
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.518 angstroms; (across all 87 pairs: 0.568)
+
+Computing secondary structure assignments for model(s) #5, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 422.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.487 angstroms; (across all 87 pairs: 0.487)
+
+Computing secondary structure assignments for model(s) #5, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.427 angstroms; (across all 87 pairs: 0.427)
+
+Computing secondary structure assignments for model(s) #5, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 418.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.449 angstroms; (across all 87 pairs: 0.503)
+
+Computing secondary structure assignments for model(s) #5, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.484 angstroms; (across all 87 pairs: 0.530)
+
+Computing secondary structure assignments for model(s) #5, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 422.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.497 angstroms; (across all 87 pairs: 0.497)
+
+Computing secondary structure assignments for model(s) #5, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.473 angstroms; (across all 87 pairs: 0.473)
+
+Computing secondary structure assignments for model(s) #5, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_06_MDFF.pdb, chain E (#5) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 440.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.504 angstroms; (across all 87 pairs: 0.504)
+
+Computing secondary structure assignments for model(s) #6, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 427.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.428 angstroms; (across all 87 pairs: 0.520)
+
+Computing secondary structure assignments for model(s) #6, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 434.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.553 angstroms; (across all 87 pairs: 0.553)
+
+Computing secondary structure assignments for model(s) #6, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 427.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.439 angstroms; (across all 87 pairs: 0.439)
+
+Computing secondary structure assignments for model(s) #6, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 431.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.469 angstroms; (across all 87 pairs: 0.469)
+
+Computing secondary structure assignments for model(s) #6, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 422.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.446 angstroms; (across all 87 pairs: 0.446)
+
+Computing secondary structure assignments for model(s) #6, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 422.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.497 angstroms; (across all 87 pairs: 0.497)
+
+Computing secondary structure assignments for model(s) #6, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 422.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.411 angstroms; (across all 87 pairs: 0.411)
+
+Computing secondary structure assignments for model(s) #6, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_07_MDFF.pdb, chain E (#6) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 426.5
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.533 angstroms; (across all 87 pairs: 0.533)
+
+Computing secondary structure assignments for model(s) #7, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.454 angstroms; (across all 87 pairs: 0.520)
+
+Computing secondary structure assignments for model(s) #7, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 428.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.444 angstroms; (across all 87 pairs: 0.444)
+
+Computing secondary structure assignments for model(s) #7, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 421.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.418 angstroms; (across all 87 pairs: 0.418)
+
+Computing secondary structure assignments for model(s) #7, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 425.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.392 angstroms; (across all 87 pairs: 0.392)
+
+Computing secondary structure assignments for model(s) #7, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 443.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.456 angstroms; (across all 87 pairs: 0.456)
+
+Computing secondary structure assignments for model(s) #7, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 436.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.473 angstroms; (across all 87 pairs: 0.473)
+
+Computing secondary structure assignments for model(s) #7, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 422.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.411 angstroms; (across all 87 pairs: 0.411)
+
+Computing secondary structure assignments for model(s) #7, #8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_08_MDFF.pdb, chain E (#7) with BAM_09_MDFF.pdb, chain E (#8), sequence alignment score = 440.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.512 angstroms; (across all 87 pairs: 0.512)
+
+Computing secondary structure assignments for model(s) #8, #0
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_01_MDFF.pdb, chain E (#0), sequence alignment score = 418.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.539 angstroms; (across all 87 pairs: 0.539)
+
+Computing secondary structure assignments for model(s) #8, #1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_02_MDFF.pdb, chain E (#1), sequence alignment score = 425.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.501 angstroms; (across all 87 pairs: 0.501)
+
+Computing secondary structure assignments for model(s) #8, #2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_03_MDFF.pdb, chain E (#2), sequence alignment score = 418.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.475 angstroms; (across all 87 pairs: 0.475)
+
+Computing secondary structure assignments for model(s) #8, #3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_04_MDFF.pdb, chain E (#3), sequence alignment score = 422.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.507 angstroms; (across all 87 pairs: 0.507)
+
+Computing secondary structure assignments for model(s) #8, #4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_05_MDFF.pdb, chain E (#4), sequence alignment score = 440.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 86 pruned atom pairs is 0.491 angstroms; (across all 87 pairs: 0.539)
+
+Computing secondary structure assignments for model(s) #8, #5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_06_MDFF.pdb, chain E (#5), sequence alignment score = 440.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.504 angstroms; (across all 87 pairs: 0.504)
+
+Computing secondary structure assignments for model(s) #8, #6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_07_MDFF.pdb, chain E (#6), sequence alignment score = 426.5
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.533 angstroms; (across all 87 pairs: 0.533)
+
+Computing secondary structure assignments for model(s) #8, #7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Matchmaker BAM_09_MDFF.pdb, chain E (#8) with BAM_08_MDFF.pdb, chain E (#7), sequence alignment score = 440.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix:  (H, O): -6 (S, S): 6 (H, H): 6 (O, S): -6 (O, O): 4 (H, S): -9
+	iteration cutoff: 2
+RMSD between 87 pruned atom pairs is 0.512 angstroms; (across all 87 pairs: 0.512)
+
+
