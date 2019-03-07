@@ -1,6 +1,6 @@
 USAGE: parse_mmaker_data.py <log copied from chimera> <subunit name> <color maximum>
 
-log copied from chimera is copied from the replylog after running a series of commands likt those in mmaker_template.txt
+log copied from chimera is copied from the replylog after running a series of commands like those in mmaker_template.txt
 
 the other .txt files are examples of these logs.
 
