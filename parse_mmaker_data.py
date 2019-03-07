@@ -41,7 +41,7 @@ for i in compdic:
 	valsarray[x,y] =  float(compdic[i])
 	meanscalc.append(float(compdic[i]))
 print("output array")
-print('Mean: {0}\tSTD: {1}\tSTDERR:{2}\t(not including self-correlations)'.format(np.mean(meanscalc),np.std(meanscalc),np.std(meanscalc)/math.sqrt(len(meanscalc))))
+print('Mean: {0}\tSTD: {1}\tSTDERR:{2}\t(not including self-correlations)'.format(np.mean(meanscalc),np.std(meanscalc),np.std(meanscalc)/math.sqrt(0.5*len(meanscalc))))
 print valsarray
 
 print labels_dic
